@@ -1,4 +1,4 @@
-# Laundry-App-Backend
+# Laundry Day App - Backend
 Make your laundry easier with the ability to track machine status'
 and keep timers!
 
